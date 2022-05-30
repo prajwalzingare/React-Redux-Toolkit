@@ -15,7 +15,7 @@ const logger = reduxLogger.createLogger();
 //reducer likhenge idhar.
 //specify how the app state changes in reponse to actions sent to the store.
 //(previousState,action)=>newState.
-//initial state.
+//initial state.completed.
 
 const CAKE_ORDERED = "CAKE_ORDERED";
 const CAKE_RESTOCKED = "CAKE_RESTOCKED";
